@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-backend",
+  "version": "1.0.0",
+  "description": "Back-end project for my portfolio | COMP229 – Web application development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebecagalvaoo/PORTFOLIO-BACKEND.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rebecagalvaoo/PORTFOLIO-BACKEND/issues"
+  },
+  "homepage": "https://github.com/rebecagalvaoo/PORTFOLIO-BACKEND#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1",
+    "http-errors": "^2.0.1",
+    "mongoose": "^9.11.1",
+    "morgan": "^1.12.1"
+  }
+}
